@@ -1,3 +1,3 @@
-# dnio.kazmalhotra.github.io
+# [kazmal.tech/dino](https://kazmal.tech/dino)
 Just a comp of stupid dinosaur jokes
-this will eventually replace https://repl.it/@KazMalhotra/dinokazmaltech
+this will has replaced https://repl.it/@KazMalhotra/dinokazmaltech
